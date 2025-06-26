@@ -2,10 +2,10 @@
 A colorful, AI-powered console Snake Game in C++ with multiple food types, live scoring, restart/pause options, and a smart bot opponent. Created by Akshara &amp; Ishika.
 
 
+## 🎥 Game Preview
 
+![Game Output](game_output.png)
 
-
-![Game Output](Screenshot (107).png)
 🎮 Features:
 Single player (human) vs AI-controlled snake (bot)
 
