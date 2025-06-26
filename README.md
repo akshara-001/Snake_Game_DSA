@@ -5,7 +5,7 @@ A colorful, AI-powered console Snake Game in C++ with multiple food types, live 
 
 
 
-![Game Output](Screenshot(107).png)
+![Game Output](Screenshot (107).png)
 🎮 Features:
 Single player (human) vs AI-controlled snake (bot)
 
